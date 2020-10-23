@@ -1,0 +1,1 @@
+{"blacklist.woody.ch": ["unknown"], "singular.ttk.pte.hu": ["unknown"], "spam.dnsbl.sorbs.net": ["unknown"]}
