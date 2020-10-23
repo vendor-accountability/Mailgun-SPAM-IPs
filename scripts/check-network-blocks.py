@@ -34,6 +34,7 @@ def worker():
         # write them all so we know for sure that it got checked, also no logic for state changes is needed as we log all state changes
         with open(output_file, 'w') as f:
             f.write(json.dumps(data.detected_by))
+        print(item)
         q.task_done()
 
 # Notes on worker_pool size: 100 breaks with OSErr to many open files in default windows containers and 50 seems safe
