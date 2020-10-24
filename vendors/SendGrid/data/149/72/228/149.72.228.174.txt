@@ -1,0 +1,1 @@
+{"bl.spamcop.net": ["unknown"], "spamlist.or.kr": ["unknown"]}

@@ -1,0 +1,1 @@
+{"all.s5h.net": ["unknown"], "bl.spamcop.net": ["unknown"], "dnsbl.sorbs.net": ["unknown"], "spam.dnsbl.sorbs.net": ["unknown"], "spam.spamrats.com": ["unknown"]}

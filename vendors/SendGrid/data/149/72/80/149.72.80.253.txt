@@ -1,0 +1,1 @@
+{"bl.spamcop.net": ["unknown"], "ix.dnsbl.manitu.net": ["unknown"]}

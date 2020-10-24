@@ -1,0 +1,1 @@
+{"all.s5h.net": ["unknown"], "bl.spamcop.net": ["unknown"], "blacklist.woody.ch": ["unknown"], "spam.dnsbl.sorbs.net": ["unknown"]}
