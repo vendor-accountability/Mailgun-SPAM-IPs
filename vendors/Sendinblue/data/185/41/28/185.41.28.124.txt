@@ -1,0 +1,1 @@
+{"bl.spamcop.net": ["unknown"], "dnsbl-2.uceprotect.net": ["unknown"], "singular.ttk.pte.hu": ["unknown"]}

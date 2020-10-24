@@ -1,0 +1,1 @@
+{"bl.spamcop.net": ["unknown"], "dnsbl-2.uceprotect.net": ["unknown"], "dnsbl.spfbl.net": ["unknown"]}
